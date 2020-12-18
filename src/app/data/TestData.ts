@@ -18,7 +18,6 @@ export class TestData {
         {id: 9, title: 'Здоровье'},
         {id: 10, title: 'Автомобиль'},
         {id: 11, title: 'Ремонт'},
-        {id: 12, title: 'Куклы'}
     ];
 
 
